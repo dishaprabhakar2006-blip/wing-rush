@@ -14,8 +14,9 @@ https://dishaprabhakar2006-blip.github.io/wing-rush/
 
 ## 🎥 Demo Video
 
-▶ Watch Demo:  
-demo1.mp4
+
+[▶ Watch Demo](demo1.mp4)
+
 
 ---
 

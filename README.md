@@ -51,14 +51,6 @@ https://dishaprabhakar2006-blip.github.io/wing-rush/
 - Clean separation of update and draw logic
 - Lightweight, dependency-free architecture
 
----
-
-## 🚀 How to Run Locally
-
-1. Clone the repository:
-git clone https://github.com/dishaprabhakar2006-blip/wing-rush.git
-
-2. Open index.html in your browser.
 
 ---
 

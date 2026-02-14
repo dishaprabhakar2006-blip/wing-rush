@@ -22,7 +22,8 @@ Wing Rush is a retro-style arcade browser game inspired by classic flying obstac
 
 ## Demo Video
 Click below to watch the gameplay demo:
-[▶ Watch Demo](demo.mp4)
+[▶ Watch Demo](https://github.com/dishaprabahakar2006-blip/flappy-bird/blob/main/demo.mp4
+)
 
 
 Built as my first complete game project.

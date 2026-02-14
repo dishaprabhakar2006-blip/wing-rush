@@ -1,29 +1,67 @@
-# Wing Rush 🌤️
+# 🌤️ Wing Rush
 
-Wing Rush is a retro-style arcade browser game inspired by classic flying obstacle games.
+Wing Rush is a custom Flappy Bird-inspired arcade game built using HTML5 Canvas and Vanilla JavaScript.  
+This version introduces dynamic gameplay elements and structured progression to enhance difficulty and player engagement.
 
-## Features
-- Gravity-based physics
-- Moving pipes from start
+---
+
+## 🎮 Live Game
+
+Play here:  
+https://dishaprabhakar2006-blip.github.io/wing-rush/
+
+---
+
+## 🎥 Demo Video
+
+▶ Watch Demo:  
+demo1.mp4
+
+---
+
+## ✨ Key Features
+
+- Custom bird character
+- Moving pipes from the start
 - Progressive difficulty system
-- Dynamic gap reduction
-- Speed escalation
-- Arcade bold UI
-- Persistent best score (localStorage)
-- Start and restart system
+- Reduced gap after certain score
+- Increased pipe speed as score increases
+- Persistent Best Score using localStorage
+- Structured game states (Start / Playing / Game Over)
+- Arcade-style UI design
+- Deployed using GitHub Pages
 
-## Tech Stack
-- HTML
-- CSS
+---
+
+## 🛠 Tech Stack
+
+- HTML5
+- CSS3
 - JavaScript (Canvas API)
+- Git & GitHub for version control and deployment
 
-## Live Game
-[https://github.com/dishaprabhakar2006-blip/flappy-bird.git](https://dishaprabhakar2006-blip.github.io/flappy-bird/)
+---
 
-## Demo Video
-Click below to watch the gameplay demo:
-[▶ Watch Demo](https://github.com/dishaprabahakar2006-blip/flappy-bird/blob/main/demo.mp4
-)
+## 🧠 Implementation Highlights
 
+- Object-based game state management
+- Collision detection with margin control
+- Dynamic difficulty scaling
+- Clean separation of update and draw logic
+- Lightweight, dependency-free architecture
 
-Built as my first complete game project.
+---
+
+## 🚀 How to Run Locally
+
+1. Clone the repository:
+git clone https://github.com/dishaprabhakar2006-blip/wing-rush.git
+
+2. Open index.html in your browser.
+
+---
+
+## 👤 Author
+
+GitHub:  
+https://github.com/dishaprabhakar2006-blip

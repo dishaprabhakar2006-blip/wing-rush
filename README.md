@@ -18,6 +18,6 @@ Wing Rush is a retro-style arcade browser game inspired by classic flying obstac
 - JavaScript (Canvas API)
 
 ## Live Demo
-https://github.com/dishaprabhakar2006-blip/flappy-bird.git
+[https://github.com/dishaprabhakar2006-blip/flappy-bird.git](https://dishaprabhakar2006-blip.github.io/flappy-bird/)
 
 Built as my first complete game project.

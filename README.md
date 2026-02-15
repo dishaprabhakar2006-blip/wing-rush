@@ -22,7 +22,7 @@ https://dishaprabhakar2006-blip.github.io/wing-rush/
 ![Demo Screenshot](ss1.png)
 ![Demo Screenshot](ss2.png)
 ![Demo Screenshot](ss3.png)
-![Demo Screenshot](ss4.png)
+![Demo Screenshot]
 ---
 
 ## ✨ Key Features
